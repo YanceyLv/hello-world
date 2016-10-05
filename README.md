@@ -1,2 +1,2 @@
 # hello-world
-just for learning
+hello, welcome to git world.
